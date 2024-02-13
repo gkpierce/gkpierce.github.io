@@ -1,5 +1,8 @@
-# Plain Template
-We are using the template from https://github.com/MXHX7199/MXHX7199.github.io
+# Website Template
+
+I am using the template from https://github.com/MXHX7199/MXHX7199.github.io
+
+My gratitude is extended to the creator of the template for sharing their website structure.
 
 ##Comments below from the author of the template:
 
